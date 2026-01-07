@@ -27,12 +27,19 @@
 <br/>
 
 <!-- 4. Tech Stack -->
-<!-- Animated Header for Tools -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Languages+and+Tools" alt="Tools Header" />
-</a>
-<br/>
-<img src="https://skillicons.dev/icons?i=c,java,python,rust,dotnet,html,css,js,react,nodejs,reactnative,gcp,firebase,linux,mysql,tensorflow&theme=dark" alt="Tech Stack" />
+  <h2>🛠️ Tech Stack</h2>
+  <br/>
+  
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=c,java,python,rust,cs,dotnet&theme=dark" alt="Languages" />
+  <br/><br/>
+  
+  <!-- Frontend & Web -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" alt="Web Tech" />
+  <br/><br/>
+  
+  <!-- Cloud, DB & Tools -->
+  <img src="https://skillicons.dev/icons?i=gcp,firebase,mysql,tensorflow,linux&theme=dark" alt="Tools" />
 
 <br/><br/>
 
